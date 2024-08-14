@@ -1,5 +1,3 @@
-import React from "react";
-
 const Header = () => {
   return (
     <div className="absolute top-0 left-0 w-full flex justify-center bg-transparent py-4 z-50">
@@ -20,14 +18,14 @@ const Header = () => {
         >
           GitHub
         </a>
-        <button
+        <a
           href="https://www.youtube.com/channel/UCgHj9UaaNQXu4fe5Ko8LknA"
           target="_blank"
           rel="noopener noreferrer"
           className="text-black hover:text-red-500 transition-colors duration-300 text-sm md:text-base"
         >
           YouTube
-        </button>
+        </a>
       </div>
     </div>
   );

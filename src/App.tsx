@@ -23,9 +23,10 @@ function App() {
   font-thin tracking-wider 
   text-center text-black max-w-3xl px-4 sm:px-6 md:px-8 lg:px-10"
             >
-              I'm currently a second year Software Engineering student spending
-              his freetime learning full-stack web development. In my spare time
-              I have a passion for tech, fitness, and cars.
+              I’m a second-year Software Engineering student with a strong
+              passion for full-stack web development. In my spare time, I’m
+              deeply interested in exploring new technologies, staying active
+              through fitness, and indulging my love for cars and photography.
             </h2>
           </BlurFade>
           <Analytics />

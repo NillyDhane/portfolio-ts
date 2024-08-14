@@ -17,7 +17,12 @@ function App() {
             text="Hey, Nilacksha here!"
           />
           <BlurFade delay={3.25} inView inViewMargin="-50px">
-            <h2 className="text-lg sm:text-1xl font-thin tracking-wider text-center  text-black max-w-3xl">
+            <h2
+              className="text-sm sm:text-base md:text-lg lg:text-xl 
+  xl:text-2xl 
+  font-thin tracking-wider 
+  text-center text-black max-w-3xl px-4 sm:px-6 md:px-8 lg:px-10"
+            >
               I'm currently a second year Software Engineering student spending
               his freetime learning full-stack web development. In my spare time
               I have a passion for tech, fitness, and cars.
